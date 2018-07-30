@@ -1,2 +1,4 @@
 Milk
 Soup
+Some juice we don't really want
+Eggs
