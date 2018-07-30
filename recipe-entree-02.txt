@@ -1,2 +1,7 @@
-Milk
-Soup
+Butter
+Flour
+Sugar
+Eggs
+Vanilla
+Salt
+Baking Soda
